@@ -82,3 +82,61 @@ Rendimiento cercano a cero:
 
 ## 👤Autora
 Flavia Hepp Proyecto de SQL aplicó un análisis de riesgo basado en eventos.
+
+***
+🌍 **¿El mercado realmente espera… o se adelanta?**
+
+En teoría, los dividendos son eventos públicos y conocidos.
+Pero en la práctica, el comportamiento del precio puede contar otra historia.
+
+---
+
+📊 En este análisis evalué algo simple:
+
+👉 ¿Qué pasa con el precio **3 días antes** de la fecha de dividendo?
+👉 ¿Y cómo varía esto según el país / mercado?
+
+---
+
+⚠️ Resultado interesante:
+
+En algunos mercados, las acciones muestran un
+📈 **rendimiento positivo antes del dividendo**
+
+💡 Lo que podría indicar:
+
+* Anticipación sistemática del evento
+* Estrategias de trading algorítmico
+* O incluso… **posible filtración de información**
+
+---
+
+🧠 ¿Por qué importa?
+
+Porque no todos los mercados son igual de eficientes.
+
+👉 En algunos:
+
+* El precio ajusta de forma “limpia”
+  👉 En otros:
+* El movimiento empieza antes de que el evento ocurra
+
+---
+
+🚨 Insight clave:
+**El edge no siempre está en el evento…
+sino en quién se adelanta a él.**
+
+---
+
+🔍 Este tipo de análisis permite:
+✔️ Detectar mercados más predecibles
+✔️ Identificar oportunidades de front-running
+✔️ Ajustar estrategias según la eficiencia del mercado
+
+---
+
+📉 En finanzas globales, entender *dónde* operás
+puede ser tan importante como *qué* operás.
+
+#Quant #Trading #DataScience #Dividendos #MarketEfficiency #Finanzas #AlgoTrading
